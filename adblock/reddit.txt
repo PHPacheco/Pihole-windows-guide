@@ -1,0 +1,25 @@
+[Adblock Plus]
+! Title: [Pihole-windows-guide] (Based on HaGeZi's Social Networks)
+! Description: [Documentation for configuring on Windows.] - Modified version of HaGeZi's Social Networks DNS Blocklist
+! Homepage: https://docs.github.com/pt/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+! Original Project: https://github.com/hagezi/dns-blocklists
+! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE (GPL-3.0)
+! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
+!
+! --- MODIFICATION NOTICE ---
+! This file is a modified version of the original work by HaGeZi.
+! Modified by: [Pedro H. Pacheco]
+! Date of modification: Last modified: 20 Mar 2026 16:06 UTC
+! ---------------------------
+!
+! Expires: 1 day
+! Last modified: 22 Mar 2026 16:06 UTC
+! Version: 2026.0322.1125.11
+! Syntax: AdBlock
+!
+||redd.it^
+||reddit.com^
+||redditmail.com^
+||redditmedia.com^
+||redditstatic.com^
