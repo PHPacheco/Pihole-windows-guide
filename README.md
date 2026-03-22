@@ -18,6 +18,10 @@ Computer: Required for initial flashing and remote configuration.
 
 Note: 8 GB is sufficient, 16 GB or 32 GB (Class 10 / A1) cards are recommended.
 
+## Block List
+
+* [Reddit](https://cdn.jsdelivr.net/gh/PHPacheco/Pihole-windows-guide@main/adblock/reddit.txt)
+
 ## License
 
 [MIT License](LICENSE)
