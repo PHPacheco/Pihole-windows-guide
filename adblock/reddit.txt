@@ -7,19 +7,22 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 !
+! Last modified: 23 Mar 2026 12:23 UTC
+! Version: 2026.0323.1223.22
+!
 ! --- MODIFICATION NOTICE ---
 ! This file is a modified version of the original work by HaGeZi.
 ! Modified by: [Pedro H. Pacheco]
-! Date of modification: Last modified: 20 Mar 2026 16:06 UTC
-! ---------------------------
 !
 ! Expires: 1 day
-! Last modified: 22 Mar 2026 16:06 UTC
-! Version: 2026.0322.1125.11
+! Last modified: 24 Mar 2026 23:39 UTC
+! Version: 2026.0324.2339.14
 ! Syntax: AdBlock
+! ---------------------------
 !
 ||redd.it^
 ||reddit.com^
 ||redditmail.com^
 ||redditmedia.com^
 ||redditstatic.com^
+||matrix.redditspace.com
