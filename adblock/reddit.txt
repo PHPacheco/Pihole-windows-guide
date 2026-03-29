@@ -25,4 +25,7 @@
 ||redditmail.com^
 ||redditmedia.com^
 ||redditstatic.com^
-||matrix.redditspace.com
+||matrix.redditspace.com^
+||reddit.map.fastly.net^
+||alb.reddit.com^
+||dualstack.reddit.map.fastly.net^
